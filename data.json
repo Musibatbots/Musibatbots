@@ -1,7 +1,7 @@
 {
     "Data":{
-        "AllowLogin": True,
-        "AllowProxy": True,
+        "AllowLogin": true,
+        "AllowProxy": true,
         "LicenseTime": "2024-01-10T00:00:00Z",
         "MyCreators":["ucf5db526eeef880fc28256a41e90e096","u01ac564a7e65e441b4866a8f3dcf4f58"]
     }
